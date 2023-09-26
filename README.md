@@ -1,5 +1,5 @@
 - Olá! Me chamo João Victor, ou ainda, *jotav*.
-- Sou estudante de Ciência da Computação na Universidade Federal do Rio Grande do Norte.
+- Sou estudante de TI na Universidade Federal do Rio Grande do Norte.
 - Atualmente estou interessado em *machine learning, deap learning e computer vision*.
 - Me siga no **Twitter** e **Instagram** para trocarmos ideias. @jotavlim4 e @jotav.lim4, respectivamente. 
 
